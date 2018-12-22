@@ -6,8 +6,6 @@ package com.zh.struct;
 public class BST {
 
 
-
-
-
-
 }
+
+

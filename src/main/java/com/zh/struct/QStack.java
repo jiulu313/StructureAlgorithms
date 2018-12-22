@@ -113,16 +113,16 @@ public class QStack<E> {
 
 
     public static void main(String[] args){
-        QStack<String> stack = new QStack<>();
-        stack.push("tom");
-        stack.push("jim");
-        stack.push("wendy");
-        stack.push("natasha");
-
-        System.out.println(stack.pop());
-        System.out.println(stack.pop());
-        System.out.println(stack.pop());
-        System.out.println(stack.pop());
+//        QStack<String> stack = new QStack<>();
+//        stack.push("tom");
+//        stack.push("jim");
+//        stack.push("wendy");
+//        stack.push("natasha");
+//
+//        System.out.println(stack.pop());
+//        System.out.println(stack.pop());
+//        System.out.println(stack.pop());
+//        System.out.println(stack.pop());
     }
 
 }
