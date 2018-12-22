@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="282df18d-ce0d-400a-b4b1-21ba62648d3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zh/bean/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zh/demo/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zh/struct/QBST.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zh/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zh/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zh/struct/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zh/struct/BST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zh/struct/QStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zh/struct/QStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zh/struct/BST.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -49,22 +40,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="8" />
+          <entry key="java" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="8" />
+          <entry key="JAVA" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1784" />
+          <entry key="dummy" value="1" />
+          <entry key="java" value="5424" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1784" />
+          <entry key="JAVA" value="5424" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -74,108 +67,93 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/struct/QStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1853">
-              <caret line="115" column="8" selection-start-line="115" selection-start-column="8" selection-end-line="115" selection-end-column="8" />
+            <state relative-caret-position="175">
+              <caret line="106" column="29" lean-forward="true" selection-start-line="106" selection-start-column="29" selection-end-line="106" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/EmptyStackException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="43" column="11" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/struct/QPriorityQueue.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/struct/QLinkedHashMap.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/demo/Demo1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-              <folding>
-                <element signature="e#86#87#0" expanded="true" />
-                <element signature="e#126#127#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/struct/QPriorityQueueInt.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8483">
-              <caret line="529" column="18" selection-start-line="529" selection-start-column="18" selection-end-line="529" selection-end-column="18" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/struct/QLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/struct/BST.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-            </state>
-          </provider>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/struct/QArrayList.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/lang/Comparable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1224">
-              <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+            <state relative-caret-position="259">
+              <caret line="137" lean-forward="true" selection-start-line="137" selection-end-line="137" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/Stack.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/struct/QHashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1054">
-              <caret line="85" selection-start-line="85" selection-end-line="85" />
+            <state relative-caret-position="158">
+              <caret line="127" column="18" lean-forward="true" selection-start-line="127" selection-start-column="18" selection-end-line="127" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/Vector.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/struct/QBST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8636">
-              <caret line="553" column="7" selection-start-line="553" selection-start-column="7" selection-end-line="553" selection-end-column="7" />
+            <state relative-caret-position="357">
+              <caret line="51" column="7" selection-start-line="51" selection-start-column="7" selection-end-line="51" selection-end-column="7" />
               <folding>
-                <element signature="e#11481#11482#0" expanded="true" />
-                <element signature="e#11522#11523#0" expanded="true" />
-                <element signature="e#11695#11696#0" expanded="true" />
-                <element signature="e#11730#11731#0" expanded="true" />
-                <element signature="e#12004#12005#0" expanded="true" />
-                <element signature="e#12044#12045#0" expanded="true" />
-                <element signature="e#13443#13444#0" expanded="true" />
-                <element signature="e#13484#13485#0" expanded="true" />
-                <element signature="e#14072#14073#0" expanded="true" />
-                <element signature="e#14108#14109#0" expanded="true" />
+                <element signature="e#475#476#0" expanded="true" />
+                <element signature="e#503#504#0" expanded="true" />
+                <element signature="e#535#536#0" expanded="true" />
+                <element signature="e#568#569#0" expanded="true" />
+                <element signature="e#610#611#0" expanded="true" />
+                <element signature="e#657#658#0" expanded="true" />
+                <element signature="e#1332#1333#0" expanded="true" />
+                <element signature="e#1373#1374#0" expanded="true" />
+                <element signature="e#1894#1895#0" expanded="true" />
+                <element signature="e#1917#1918#0" expanded="true" />
+                <element signature="e#2262#2263#0" expanded="true" />
+                <element signature="e#2288#2289#0" expanded="true" />
+                <element signature="e#2530#2531#0" expanded="true" />
+                <element signature="e#2559#2560#0" expanded="true" />
+                <element signature="e#2801#2802#0" expanded="true" />
+                <element signature="e#2829#2830#0" expanded="true" />
+                <element signature="e#3053#3054#0" expanded="true" />
+                <element signature="e#3078#3079#0" expanded="true" />
+                <element signature="e#5340#5341#0" expanded="true" />
+                <element signature="e#5374#5375#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52836">
-              <caret line="3179" column="26" selection-start-line="3179" selection-start-column="26" selection-end-line="3179" selection-end-column="26" />
+            <state>
+              <folding>
+                <element signature="e#0#124311#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -193,6 +171,10 @@
     <findStrings>
       <find>capacityIncrement</find>
       <find>index</find>
+      <find>contain</find>
+      <find>Comparable</find>
+      <find>leftNode</find>
+      <find>node</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -492,14 +474,16 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zh/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zh/struct/QStack.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zh/demo/Demo1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zh/struct/QHashMap.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zh/struct/BST.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zh/struct/QBST.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="716" />
+    <option name="height" value="721" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -513,43 +497,43 @@
         <subPane>
           <expand>
             <path>
-              <item name="struct" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StructureAlgorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="StructureAlgorithms" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="struct" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StructureAlgorithms" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="struct" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StructureAlgorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="StructureAlgorithms" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="struct" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StructureAlgorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="StructureAlgorithms" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="struct" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StructureAlgorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="StructureAlgorithms" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zh" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="struct" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StructureAlgorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="StructureAlgorithms" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="zh" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StructureAlgorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StructureAlgorithms" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zh" type="462c0819:PsiDirectoryNode" />
+              <item name="struct" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -560,11 +544,17 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545444794729" />
+    <property name="SearchEverywhereHistoryKey" value="String.java&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/lang/String.java" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545460150596" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/zh/struct" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -648,7 +638,7 @@
     <frame x="0" y="23" width="1280" height="721" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2752443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2752443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -657,12 +647,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3273906" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3262295" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289256" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32786885" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3289256" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.32786885" />
@@ -692,13 +682,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/struct/QStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1853">
-          <caret line="115" column="8" selection-start-line="115" selection-start-column="8" selection-end-line="115" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/EmptyStackException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -720,13 +703,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8483">
           <caret line="529" column="18" selection-start-line="529" selection-start-column="18" selection-end-line="529" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/lang/Comparable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -774,10 +750,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/struct/BST.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/struct/QStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="175">
+          <caret line="106" column="29" lean-forward="true" selection-start-line="106" selection-start-column="29" selection-end-line="106" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/struct/QPriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/struct/QLinkedHashMap.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/struct/QPriorityQueueInt.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/struct/QLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/struct/QArrayList.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/struct/QHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="127" column="18" lean-forward="true" selection-start-line="127" selection-start-column="18" selection-end-line="127" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="137" lean-forward="true" selection-start-line="137" selection-end-line="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#124311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/struct/QBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="51" column="7" selection-start-line="51" selection-start-column="7" selection-end-line="51" selection-end-column="7" />
+          <folding>
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#657#658#0" expanded="true" />
+            <element signature="e#1332#1333#0" expanded="true" />
+            <element signature="e#1373#1374#0" expanded="true" />
+            <element signature="e#1894#1895#0" expanded="true" />
+            <element signature="e#1917#1918#0" expanded="true" />
+            <element signature="e#2262#2263#0" expanded="true" />
+            <element signature="e#2288#2289#0" expanded="true" />
+            <element signature="e#2530#2531#0" expanded="true" />
+            <element signature="e#2559#2560#0" expanded="true" />
+            <element signature="e#2801#2802#0" expanded="true" />
+            <element signature="e#2829#2830#0" expanded="true" />
+            <element signature="e#3053#3054#0" expanded="true" />
+            <element signature="e#3078#3079#0" expanded="true" />
+            <element signature="e#5340#5341#0" expanded="true" />
+            <element signature="e#5374#5375#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
