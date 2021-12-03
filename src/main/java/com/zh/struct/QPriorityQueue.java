@@ -1,6 +1,5 @@
 package com.zh.struct;
 
-import bean.Task;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;
@@ -112,35 +111,35 @@ public class QPriorityQueue<E> {
 
 
     public static void main(String[] args) {
-
-        //比较两个任务，从大到小排序
-        Comparator<Task> comparator = new Comparator<Task>() {
-            @Override
-            public int compare(Task o1, Task o2) {
-                if (o1.priority > o2.priority) {
-                    return -1;
-                } else if (o1.priority == o2.priority) {
-                    return 0;
-                } else {
-                    return 1;
-                }
-            }
-        };
-
-        //新建一个任务
-        Queue<Task> priorityQueue = new PriorityQueue<Task>(10, comparator);
-
-        //新建了4个不同优先级的任务入队，数越大优先级越大，也最先执行
-        priorityQueue.add(new Task("task1", 23));
-        priorityQueue.add(new Task("task2", 34));
-        priorityQueue.add(new Task("task3", 15));
-        priorityQueue.add(new Task("task4", 79));
-
-        //分别取出任务，然后打印
-        System.out.println(priorityQueue.poll());   // 首先应该是 task4， 先取出来，因为优先级最大
-        System.out.println(priorityQueue.poll());   // 然后才是   task2   被取出来
-        System.out.println(priorityQueue.poll());   // 然后才是   task1   被取出来
-        System.out.println(priorityQueue.poll());   // 最后才是   task3   被取出来，因为优先级最小
+//
+//        //比较两个任务，从大到小排序
+//        Comparator<Task> comparator = new Comparator<Task>() {
+//            @Override
+//            public int compare(Task o1, Task o2) {
+//                if (o1.priority > o2.priority) {
+//                    return -1;
+//                } else if (o1.priority == o2.priority) {
+//                    return 0;
+//                } else {
+//                    return 1;
+//                }
+//            }
+//        };
+//
+//        //新建一个任务
+//        Queue<Task> priorityQueue = new PriorityQueue<Task>(10, comparator);
+//
+//        //新建了4个不同优先级的任务入队，数越大优先级越大，也最先执行
+//        priorityQueue.add(new Task("task1", 23));
+//        priorityQueue.add(new Task("task2", 34));
+//        priorityQueue.add(new Task("task3", 15));
+//        priorityQueue.add(new Task("task4", 79));
+//
+//        //分别取出任务，然后打印
+//        System.out.println(priorityQueue.poll());   // 首先应该是 task4， 先取出来，因为优先级最大
+//        System.out.println(priorityQueue.poll());   // 然后才是   task2   被取出来
+//        System.out.println(priorityQueue.poll());   // 然后才是   task1   被取出来
+//        System.out.println(priorityQueue.poll());   // 最后才是   task3   被取出来，因为优先级最小
     }
 
 }
