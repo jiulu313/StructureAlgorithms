@@ -5,6 +5,45 @@ import com.zh.bean.TreeNode;
 
 public class LeetCode {
 
+    public static void main(String[] args){
+        LeetCode code = new LeetCode();
+        System.out.println(code.isPalindrome("OP"));
+    }
+
+    //回文串
+    public boolean isPalindrome(String s) {
+        if (s == null || "".equals(s)) {
+            return true;
+        }
+
+        int i = 0;
+        int j = s.length() - 1;
+
+        while ( i < j) {
+            char a = s.charAt(i);
+            char b = s.charAt(j);
+
+            if (Character.isLetterOrDigit(a) && Character.isLetterOrDigit(b)) {
+                if (a == b || a - b == 32 || a - b == -32) {
+                    i++;
+                    j--;
+                }else {
+                    return false;
+                }
+            }else {
+                if (!Character.isLetterOrDigit(a)) {
+                    i++;
+                }
+                if (!Character.isLetterOrDigit(b)) {
+                    j--;
+                }
+            }
+        }
+
+        return true;
+    }
+
+
     //二叉树最小的深度
     public int minDepth(TreeNode root) {
         if (root == null) {
